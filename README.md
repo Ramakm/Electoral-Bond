@@ -1,2 +1,11 @@
-# Electoral-Bond
-Electoral Bond Analysis
+# **Electorial Bond:**
+
+Electoral Bonds were a mode of funding for political parties in India from their introduction in 2017 till they were struck down as unconstitutional by the Supreme Court on 15 February 2024. Following their termination, a five-judge bench headed by the Chief Justice directed the State Bank of India to hand over the identities and other details of donors and recipients to the Election Commission of India, which was in turn asked to publish them on its website.
+
+The scheme was introduced in The Finance Bill, 2017 during the Union Budget 2017-18 by then Finance Minister Arun Jaitley. They were classified as a Money Bill, and thus bypassed certain parliamentary scrutiny processes, in what was alleged to be a violation of Article 110 of Indian constitution.(According to the Indian Constitution, Money Bills are legislation that are exempt from the requirement of being "passed" in the Rajya Sabha, as the upper house is only permitted to offer commentary on such bills introduced in Lok Sabha. Mr Jaitley also proposed to amend the Reserve Bank of India (RBI) Act in order to facilitate the issuance of electoral bonds by banks for the purpose of political funding.
+
+Although introduced in early 2017, the Department of Economic Affairs in Ministry Of Finance notified the Electoral Bond Scheme 2018 in a Gazette only on 2 January 2018. According to an estimate, a total of 18,299 electoral bonds equivalent to a monetary value of ₹9,857 crore, were successfully transacted during the period spanning from March 2018 to April 2022.
+
+On 7 November 2022, the Electoral Bond scheme was amended to increase the sale days from 70 to 85 in a year where any assembly election may be scheduled. The decision on Electoral Bond (Amendment) Scheme, 2022 was taken shortly prior to the assembly elections in Gujarat and Himachal Pradesh, while the Model Code of Conduct was implemented in both the states.
+
+Ahead of the 2019 General Elections, Congress announced its intention to eliminate electoral bonds, if the party is elected to power. The Communist Party of India (Marxist) has also opposed the scheme, and was the sole national party to refuse donations through electoral bonds
